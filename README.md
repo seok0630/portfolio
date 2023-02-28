@@ -30,31 +30,31 @@
 
 ## 프로젝트 결과
 ### 회원가입
-어플리케이션을 사용 하기 위해서 회원가입이 필요하다.  
-<img width="25%" src="https://user-images.githubusercontent.com/70646278/221890752-c1736045-3f49-4b8a-9135-acdd213b590e.gif"/>  
-↑↑↑또한 파이어베이스를 이용해 이메일 인증을 받은 계정만이 메인화면으로 이동할 수 있도록 하였다.  
+<img width="25%" src="https://user-images.githubusercontent.com/70646278/221890752-c1736045-3f49-4b8a-9135-acdd213b590e.gif"/><br>
+어플리케이션을 사용 하기 위해서 회원가입이 필요하다.<br>
+또한 파이어베이스를 이용해 이메일 인증을 받은 계정만이 메인화면으로 이동할 수 있도록 하였다.<br><br>
 <img width="40%" src="https://user-images.githubusercontent.com/70646278/221889655-bb191c12-01d3-42c4-9b62-07c31c3e5a52.png"/>  
-실제 네이버 계정으로 이메일이 온 화면.  
-<img width="40%" src="https://user-images.githubusercontent.com/70646278/221890454-dba513f5-e0d8-426f-873b-66b4cd211a5b.png"/>  
+실제 네이버 계정으로 이메일이 온 화면.<br><br>
+<img width="40%" src="https://user-images.githubusercontent.com/70646278/221890454-dba513f5-e0d8-426f-873b-66b4cd211a5b.png"/><br><br>
   
   
 ### 로그인
 <img width="25%" src="https://user-images.githubusercontent.com/70646278/221891852-4244e4ad-4db6-41ed-9bc8-d42315bc24db.gif"/>  
-로그인 완료후 다른 사용자의 글을 볼수 있다.  
+로그인 완료후 다른 사용자의 글을 볼수 있다.<br><br>
 
 ### 글쓰기
 <img width="25%" src="https://user-images.githubusercontent.com/70646278/221892489-477fa25d-a477-4bf7-b61d-e5012a225f8f.gif"/>  
-이미지를 첨부하고 글 쓰기를 완료하는 모습.  
+이미지를 첨부하고 글 쓰기를 완료하는 모습.<br><br>
   
 <img width="25%" src="https://user-images.githubusercontent.com/70646278/221892779-e04af262-35bf-4d01-9912-f0f6e95aae29.gif"/>  
-자신이 쓴 글을 확인후(조회수도 올라간다) 추천과 삭제를 할 수 있다.  
+자신이 쓴 글을 확인후(조회수도 올라간다) 추천과 삭제를 할 수 있다.<br><br>
 
 ### 다른 유저의 글을 삭제하려고 한다면?
 <img width="25%" src="https://user-images.githubusercontent.com/70646278/221893074-85d7b1c8-3ae5-4fda-92dd-a1fdba08e6c7.gif"/>  
-사용자의 UID가 데이터베이스에 저장된 해당 글의 UID와 맞지않아 삭제가 되지 않는다.  
+사용자의 UID가 데이터베이스에 저장된 해당 글의 UID와 맞지않아 삭제가 되지 않는다.<br><br>
 
 ### 댓글
-<img width="25%" src="https://user-images.githubusercontent.com/70646278/221899494-145b6410-d5a4-448f-82b8-40c882b4344b.gif"/>  
+<img width="25%" src="https://user-images.githubusercontent.com/70646278/221899494-145b6410-d5a4-448f-82b8-40c882b4344b.gif"/><br><br>
 
 ## 프로젝트 평가 및 개선 방향
 
